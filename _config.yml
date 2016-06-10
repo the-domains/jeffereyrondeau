@@ -1,14 +1,3 @@
-color:
-  saturation: 0.07373109
-  brandStrength: 0.4330575
-  rhythmicContrast: 0.5685843
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  lightness: 0.7702277
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.4731183
 typography_spectrum: 0.7706093
+color:
+  saturation: 0.07373109
+  brandStrength: 0
+  lightness: 0.7702277
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  rhythmicContrast: 0.5685843
+layout_spectrum: 0.4731183
 name: Jeffereyrondeau
