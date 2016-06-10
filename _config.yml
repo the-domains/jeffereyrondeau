@@ -1,8 +1,5 @@
-layout_spectrum: 0.4731183
-typography_spectrum: 0.7706093
 color:
   saturation: 0.07373109
-  lightness: 0.7702277
   brandStrength: 0.4330575
   rhythmicContrast: 0.5685843
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  lightness: 0.7702277
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4731183
+typography_spectrum: 0.7706093
 name: Jeffereyrondeau
