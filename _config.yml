@@ -1,3 +1,7 @@
+name: Jeffereyrondeau
+favicon: null
+layout_spectrum: 0.4731183
+typography_spectrum: 0.7706093
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Rondeau Music
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 0.7702277
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  brandStrength: 0
+  lightness: 0.7702277
+  saturation: 0
   rhythmicContrast: 0.5685843
-typography_spectrum: 0.7706093
-layout_spectrum: 0.4731183
-name: Jeffereyrondeau
+purpose: []
